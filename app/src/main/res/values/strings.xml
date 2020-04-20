@@ -1,0 +1,4 @@
+<resources>
+    <!--<string name="app_name">Provinsi di Sumatera</string>-->
+    <string name="app_name"><font fgcolor='#FFFFFF'>Provinsi DI Sumatera</font></string> <!--green-->
+</resources>
